@@ -82,20 +82,37 @@ def create_brew_db(conn, cur):
                 name TEXT,
                 state TEXT, 
                 city TEXT,
-                zip_code INTEGER,
                 UNIQUE(id))""")
     conn.commit()
 
 def insert_into_db(conn, cur, json_data):
     for data in json_data:
-        if (data["country"] == "United States"):
-            cur.execute("""INSERT OR IGNORE INTO Breweries(id, name, state, city, zip_code) VALUES (?, ?, ?, ?, ?)""", 
-                        (data["id"], data["name"], data["state"], data["city"], int(data["postal_code"].split('-')[0])))
+        # if (data["country"] == "United States"):
+        cur.execute("""INSERT OR IGNORE INTO Breweries(id, name, state, city) VALUES (?, ?, ?, ?)""", 
+                    (data["id"], data["name"], data["state"], data["city"]))
     conn.commit()
 
 def access_multiple_pages(conn, cur):
-    for i in range():
-        json_data = set_up_connection(i + 1)
+    # for i in range():
+    #     json_data = set_up_connection(i + 1)
+    #     insert_into_db(conn, cur, json_data)
+            #load in data
+    cur.execute("SELECT * FROM Breweries")
+    count = len(cur.fetchall())
+    if count == 0:
+        json_data = set_up_connection(1)
+        insert_into_db(conn, cur, json_data)
+    elif count < 26:
+        json_data = set_up_connection(2)
+        insert_into_db(conn, cur, json_data)
+    elif count < 51:
+        json_data = set_up_connection(3)
+        insert_into_db(conn, cur, json_data)
+    elif count < 76:
+        json_data = set_up_connection(4)
+        insert_into_db(conn, cur, json_data)
+    else:
+        json_data = set_up_connection(5)
         insert_into_db(conn, cur, json_data)
 
 
