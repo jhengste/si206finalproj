@@ -1,357 +1,51 @@
 Number of Breweries by State:
-Alabama, 29
-Alaska, 39
-Arizona, 64
-Arkansas, 28
-California, 526
-Colorado, 248
-Connecticut, 62
-Delaware, 18
-Florida, 190
-Georgia, 47
-Hawaii, 18
-Idaho, 36
-Illinois, 143
-Indiana, 92
-Iowa, 60
-Kansas, 27
-Kentucky, 41
-Louisiana, 23
-Maine, 69
-Maryland, 67
-Massachusetts, 93
-Michigan, 219
-Minnesota, 118
-Mississippi, 10
-Missouri, 80
-Montana, 60
-Nebraska, 38
-Nevada, 28
-New Hampshire, 38
-New Jersey, 83
-New Mexico, 50
-New York, 237
-North Carolina, 172
-North Dakota, 19
-Ohio, 158
-Oklahoma, 28
-Oregon, 157
-Pennsylvania, 194
-Rhode Island, 10
-South Carolina, 42
-South Dakota, 26
-Tennessee, 69
-Texas, 196
-Utah, 17
-Vermont, 36
-Virginia, 143
-Washington, 264
-West Virginia, 19
-Wisconsin, 109
-Wyoming, 15
-Number of Breweries by State:
 Alabama, 0
-Alaska, 0
-Arizona, 2
-Arkansas, 0
-California, 2
-Colorado, 3
-Connecticut, 0
-Delaware, 0
-Florida, 0
-Georgia, 0
-Hawaii, 0
-Idaho, 1
-Illinois, 0
-Indiana, 1
-Iowa, 0
-Kansas, 0
-Kentucky, 0
-Louisiana, 0
-Maine, 0
-Maryland, 0
-Massachusetts, 1
-Michigan, 1
-Minnesota, 1
-Mississippi, 0
-Missouri, 0
-Montana, 0
-Nebraska, 0
-Nevada, 1
-New Hampshire, 0
-New Jersey, 0
-New Mexico, 0
-New York, 1
-North Carolina, 0
-North Dakota, 0
-Ohio, 0
-Oklahoma, 1
-Oregon, 5
-Pennsylvania, 0
-Rhode Island, 0
-South Carolina, 0
-South Dakota, 0
-Tennessee, 0
-Texas, 2
-Utah, 0
-Vermont, 0
-Virginia, 0
-Washington, 2
-West Virginia, 0
-Wisconsin, 0
-Wyoming, 0
-Number of Breweries by State:
-Alabama, 0
-Alaska, 0
-Arizona, 2
-Arkansas, 0
-California, 2
-Colorado, 3
-Connecticut, 0
-Delaware, 0
-Florida, 0
-Georgia, 0
-Hawaii, 0
-Idaho, 1
-Illinois, 0
-Indiana, 1
-Iowa, 0
-Kansas, 0
-Kentucky, 0
-Louisiana, 0
-Maine, 0
-Maryland, 0
-Massachusetts, 1
-Michigan, 1
-Minnesota, 1
-Mississippi, 0
-Missouri, 0
-Montana, 0
-Nebraska, 0
-Nevada, 1
-New Hampshire, 0
-New Jersey, 0
-New Mexico, 0
-New York, 1
-North Carolina, 0
-North Dakota, 0
-Ohio, 0
-Oklahoma, 1
-Oregon, 5
-Pennsylvania, 0
-Rhode Island, 0
-South Carolina, 0
-South Dakota, 0
-Tennessee, 0
-Texas, 2
-Utah, 0
-Vermont, 0
-Virginia, 0
-Washington, 2
-West Virginia, 0
-Wisconsin, 0
-Wyoming, 0
-Number of Breweries by State:
-Alabama, 0
-Alaska, 0
-Arizona, 2
-Arkansas, 0
-California, 2
-Colorado, 3
-Connecticut, 0
-Delaware, 0
-Florida, 0
-Georgia, 0
-Hawaii, 0
-Idaho, 1
-Illinois, 0
-Indiana, 1
-Iowa, 0
-Kansas, 0
-Kentucky, 0
-Louisiana, 0
-Maine, 0
-Maryland, 0
-Massachusetts, 1
-Michigan, 1
-Minnesota, 1
-Mississippi, 0
-Missouri, 0
-Montana, 0
-Nebraska, 0
-Nevada, 1
-New Hampshire, 0
-New Jersey, 0
-New Mexico, 0
-New York, 1
-North Carolina, 0
-North Dakota, 0
-Ohio, 0
-Oklahoma, 1
-Oregon, 5
-Pennsylvania, 0
-Rhode Island, 0
-South Carolina, 0
-South Dakota, 0
-Tennessee, 0
-Texas, 2
-Utah, 0
-Vermont, 0
-Virginia, 0
-Washington, 2
-West Virginia, 0
-Wisconsin, 0
-Wyoming, 0
-Number of Breweries by State:
-Alabama, 0
-Alaska, 0
-Arizona, 2
-Arkansas, 0
-California, 2
-Colorado, 3
-Connecticut, 0
-Delaware, 0
-Florida, 0
-Georgia, 0
-Hawaii, 0
-Idaho, 1
-Illinois, 0
-Indiana, 1
-Iowa, 0
-Kansas, 0
-Kentucky, 0
-Louisiana, 0
-Maine, 0
-Maryland, 0
-Massachusetts, 1
-Michigan, 1
-Minnesota, 1
-Mississippi, 0
-Missouri, 0
-Montana, 0
-Nebraska, 0
-Nevada, 1
-New Hampshire, 0
-New Jersey, 0
-New Mexico, 0
-New York, 1
-North Carolina, 0
-North Dakota, 0
-Ohio, 0
-Oklahoma, 1
-Oregon, 5
-Pennsylvania, 0
-Rhode Island, 0
-South Carolina, 0
-South Dakota, 0
-Tennessee, 0
-Texas, 2
-Utah, 0
-Vermont, 0
-Virginia, 0
-Washington, 2
-West Virginia, 0
-Wisconsin, 0
-Wyoming, 0
-Number of Breweries by State:
-Alabama, 0
-Alaska, 0
-Arizona, 2
-Arkansas, 0
-California, 2
-Colorado, 3
-Connecticut, 0
-Delaware, 0
-Florida, 0
-Georgia, 0
-Hawaii, 0
-Idaho, 1
-Illinois, 0
-Indiana, 1
-Iowa, 0
-Kansas, 0
-Kentucky, 0
-Louisiana, 0
-Maine, 0
-Maryland, 0
-Massachusetts, 1
-Michigan, 1
-Minnesota, 1
-Mississippi, 0
-Missouri, 0
-Montana, 0
-Nebraska, 0
-Nevada, 1
-New Hampshire, 0
-New Jersey, 0
-New Mexico, 0
-New York, 1
-North Carolina, 0
-North Dakota, 0
-Ohio, 0
-Oklahoma, 1
-Oregon, 5
-Pennsylvania, 0
-Rhode Island, 0
-South Carolina, 0
-South Dakota, 0
-Tennessee, 0
-Texas, 2
-Utah, 0
-Vermont, 0
-Virginia, 0
-Washington, 2
-West Virginia, 0
-Wisconsin, 0
-Wyoming, 0
-Number of Breweries by State:
-Alabama, 0
-Alaska, 0
+Alaska, 2
 Arizona, 3
 Arkansas, 0
-California, 4
-Colorado, 4
-Connecticut, 0
-Delaware, 1
-Florida, 0
-Georgia, 0
+California, 13
+Colorado, 9
+Connecticut, 1
+Delaware, 3
+Florida, 6
+Georgia, 1
 Hawaii, 0
-Idaho, 1
-Illinois, 1
-Indiana, 3
+Idaho, 2
+Illinois, 3
+Indiana, 4
 Iowa, 1
-Kansas, 0
-Kentucky, 0
+Kansas, 1
+Kentucky, 2
 Louisiana, 0
-Maine, 0
+Maine, 1
 Maryland, 1
-Massachusetts, 1
+Massachusetts, 3
 Michigan, 1
 Minnesota, 3
 Mississippi, 1
-Missouri, 0
-Montana, 0
+Missouri, 6
+Montana, 3
 Nebraska, 0
 Nevada, 1
 New Hampshire, 0
 New Jersey, 0
 New Mexico, 0
-New York, 2
-North Carolina, 2
+New York, 6
+North Carolina, 6
 North Dakota, 0
-Ohio, 2
+Ohio, 4
 Oklahoma, 1
-Oregon, 6
-Pennsylvania, 1
+Oregon, 7
+Pennsylvania, 5
 Rhode Island, 0
 South Carolina, 1
 South Dakota, 0
 Tennessee, 0
-Texas, 2
-Utah, 0
-Vermont, 1
-Virginia, 1
-Washington, 3
+Texas, 6
+Utah, 1
+Vermont, 2
+Virginia, 3
+Washington, 7
 West Virginia, 0
-Wisconsin, 1
+Wisconsin, 2
 Wyoming, 0
